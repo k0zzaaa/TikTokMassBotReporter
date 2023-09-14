@@ -7,4 +7,6 @@ It will catch all needed id's and there's no 'URL' or 'Link' asked for script to
 
 The script will ask you for what reasons u want to report the victim, and it will make his magic
 
+The main reason why i am selling this script and not giving away for free is because it will be patched if the usage of this script is high, i spent a lot of time making it and it costed me (residental proxies)
+
 Contact: Telegram - @k0zzaaa
