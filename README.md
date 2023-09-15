@@ -9,7 +9,7 @@ The main reason why i am selling this script and not giving away for free is bec
 
 Contact: Telegram - @k0zzaaa
 
-PROOFS:
+PROOFS: (Banning an account that has no content is the hardest and will rarely work, thank you residental proxies <3)
 ![proof1](https://github.com/wooshkrr/TikTokMassBotReporter/assets/134107143/cc9d9d11-4ac0-43fe-afed-3424e4dc34ef)
 ![proof2](https://github.com/wooshkrr/TikTokMassBotReporter/assets/134107143/898720bc-b7af-4ba9-b3e5-9e0b4af99d9b)
 
